@@ -3,3 +3,8 @@ C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Assemblies\UnclampedWall
 C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.csprojResolveAssemblyReference.cache
 C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.dll
 C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.pdb
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Assemblies\UnclampedWalls.dll
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Assemblies\UnclampedWalls.pdb
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.csprojResolveAssemblyReference.cache
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.dll
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.pdb
