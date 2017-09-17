@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Unclamped Walls</name>
+	<author>Xnope</author>
+	<targetVersion>0.17.1557</targetVersion>
+	<description>Allows building walls in any line, as opposed to vanilla clamping to horizontal and vertical lines. Quite useful for complicated base builds.</description>
+</ModMetaData>

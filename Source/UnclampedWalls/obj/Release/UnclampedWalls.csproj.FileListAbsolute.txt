@@ -1,0 +1,4 @@
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\bin\Release\UnclampedWalls.dll
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\bin\Release\UnclampedWalls.pdb
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Release\UnclampedWalls.dll
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Release\UnclampedWalls.pdb

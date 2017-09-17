@@ -1,0 +1,5 @@
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Assemblies\UnclampedWalls.dll
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Assemblies\UnclampedWalls.pdb
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.csprojResolveAssemblyReference.cache
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.dll
+C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Debug\UnclampedWalls.pdb
