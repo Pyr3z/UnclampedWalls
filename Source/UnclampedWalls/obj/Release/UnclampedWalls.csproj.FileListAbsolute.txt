@@ -2,3 +2,9 @@ C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\bi
 C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\bin\Release\UnclampedWalls.pdb
 C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Release\UnclampedWalls.dll
 C:\Users\levi\Desktop\Modding - Rimworld\UnclampedWalls\Source\UnclampedWalls\obj\Release\UnclampedWalls.pdb
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Source\UnclampedWalls\bin\Release\UnclampedWalls.dll
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Source\UnclampedWalls\bin\Release\UnclampedWalls.pdb
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Source\UnclampedWalls\obj\Release\UnclampedWalls.dll
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Source\UnclampedWalls\obj\Release\UnclampedWalls.pdb
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Assemblies\UnclampedWalls.dll
+C:\Steam\steamapps\common\RimWorld\Mods\UnclampedWalls\Assemblies\UnclampedWalls.pdb
